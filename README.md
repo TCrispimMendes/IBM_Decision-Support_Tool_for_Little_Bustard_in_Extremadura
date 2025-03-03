@@ -1,2 +1,2 @@
-The NetLogo code presented here corresponds to the model described in the paper **'Spatially explicit individual-based models as tools to address pressing conservation decisions: a case study with the little bustard'**, (IN PREP).
+The NetLogo code presented here corresponds to the model described in the paper **'Using Spatially Explicit Individual-Based Models to Prioritize Conservation Strategies: A Case Study on the Little Bustard'**, (2025, published in Journal of Environmental Management).
 Authors: Tiago Crispim-Mendes, Ana Teresa Marques, Francesco Valerio, Sérgio Godinho, Ricardo Pita and João Paulo Silva.
